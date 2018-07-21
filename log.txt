@@ -1,0 +1,9 @@
+COMMAND: node liri.js movie-this Swingers
+COMMAND: node liri.js do-what-it-says
+COMMAND: node liri.js do-what-it-says
+COMMAND: node liri.js do-what-it-says
+COMMAND: node liri.js do-what-it-says
+COMMAND: node liri.js do-what-it-says
+COMMAND: node liri.js my-tweets
+COMMAND: node liri.js my-tweets
+COMMAND: node liri.js my-tweets
